@@ -56,7 +56,7 @@ As we explore new attack vectors and uncover system weaknesses, we simultaneousl
 - **Collaborative Growth:** By sharing both offensive and defensive tools, we foster a more collaborative cybersecurity ecosystem, where research in one area benefits the other.
 - **Building a Safer Internet:** Ultimately, our mission is to improve the overall security landscape. By equipping defenders with tools based on the latest exploit research, we help them protect users, systems, and organizations from increasingly sophisticated threats.
 
-## Mathematical Equation
+## Ideology
 
 The probability \( P \) of discovering a vulnerability after \( n \) independent, random tests (each with a probability \( p \) of success) can be expressed as:
 
