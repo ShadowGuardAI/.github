@@ -24,9 +24,9 @@ Eventually, through this relentless onslaught, one or many of these projects wil
 
 The probability \( P \) of discovering a vulnerability after \( n \) independent, random tests (each with a probability \( p \) of success) can be expressed as:
 
-\[
+$$
 P(\text{vulnerability found}) = 1 - (1 - p)^n
-\]
+$$
 
 Where:
 - \( p \) = the probability of finding a vulnerability in a single test
