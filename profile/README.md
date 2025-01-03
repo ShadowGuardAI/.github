@@ -1,5 +1,6 @@
 # **ShadowStrike**  
-### *AI-Based Cybersecurity Research*
+### *AI-Driven Cybersecurity Research & Innovation*
 
-🚨 **Revolutionizing Cyber Defense && Cyber Offense** with cutting-edge AI technology.  
-🔍 **Deep Research. Advanced Threat Detection. Real-Time Protection. AI-Based Penetration Testing**
+🚨 **Revolutionizing** both **Cyber Defense** and **Cyber Offense** with **cutting-edge AI technology**.  
+🔍 **Deep Research** | **Advanced Threat Detection** | **Real-Time Protection**  
+💻 **AI-Powered Penetration Testing** | **Next-Level Security Solutions**  
