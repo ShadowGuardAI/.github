@@ -10,7 +10,7 @@
 **Note:**  
 Most creations here remain **under the radar**—private until the trials are complete. What emerges will be **released**, but only after the proof is undeniable.  
 
-At first glance, some projects might seem elementary. But beneath the surface lies **unseen complexity**—AI-driven methods that **reshape the game**.
+At first glance, some projects might seem elementary. But beneath the surface lies **unseen complexity**—AI-driven methods that **reshape the game**. It is not just about *what* the project does at **ShadowStrike**, it's about the automation of developing complicated projects, it's the *how* a project was developed.
 
 ### **The Method**  
 We don’t build, we **test**. We don’t innovate, we **evolve**.  
