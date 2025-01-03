@@ -1,5 +1,5 @@
-ShadowStrike
-*# WIP: AI-Driven Offensive Cybersecurity Research & Exploit Innovation*
+# ShadowStrike
+* WIP: AI-Driven Offensive Cybersecurity Research & Exploit Innovation*
 
 🚨 **Redefining the Future** of Offensive Cybersecurity with **Cutting-Edge AI Technology**  
 🔍 **Advanced Reconnaissance** | **Exploit Discovery** | **Stealth Attacks**  
